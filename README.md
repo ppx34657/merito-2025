@@ -1,3 +1,4 @@
 # merito-2025
-Dzień dobry , mój pierwszy projekcie
+Mój pierwszy projekcie
 Plik zedytowany na branchu
+Branch nazywa się branch-dominik
